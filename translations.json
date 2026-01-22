@@ -1,0 +1,123 @@
+{
+  "app": {
+    "title": "Learn Boards | CBSE Classe 10",
+    "tagline": "Préparation à l'examen du conseil CBSE classe 10"
+  },
+  "navigation": {
+    "today": "📊 Aujourd'hui",
+    "chapters": "📚 Chapitres",
+    "study": "⏱️ Étudier",
+    "papers": "📄 Articles",
+    "progress": "📈 Progrès",
+    "rules": "📋 Règles"
+  },
+  "subjects": {
+    "science": "Science",
+    "maths": "Mathématiques",
+    "social": "Sciences sociales",
+    "physics": "Physique",
+    "chemistry": "Chimie",
+    "biology": "Biologie"
+  },
+  "buttons": {
+    "startLearning": "Commencer à apprendre",
+    "comingSoon": "À venir",
+    "signIn": "Se connecter",
+    "signUp": "Créer un compte",
+    "save": "Enregistrer les paramètres",
+    "reset": "Réinitialiser toutes les données",
+    "regenerate": "Régénérer",
+    "start": "▶ Démarrer",
+    "pause": "⏸ Pause",
+    "resetTimer": "↺ Réinitialiser",
+    "logSession": "✓ Enregistrer cette session",
+    "syncNow": "Synchroniser maintenant",
+    "signOut": "Se déconnecter"
+  },
+  "pages": {
+    "subjectSelection": "Learn Boards",
+    "scienceApp": "Science",
+    "dashboard": "Tâches du jour",
+    "currentFocus": "🎯 Foyer actuel"
+  },
+  "settings": {
+    "title": "⚙️ Paramètres",
+    "colorTheme": "Thème de couleur",
+    "currentSubject": "Sujet actuel",
+    "examDate": "Date d'examen",
+    "dailyHours": "Heures de science quotidiennes (Max)",
+    "syllabusStatus": "État d'achèvement du programme",
+    "firstCycleIncomplete": "Premier cycle incomplet",
+    "firstCycleComplete": "Premier cycle terminé"
+  },
+  "account": {
+    "title": "👤 Compte",
+    "signInDesc": "Connectez-vous pour enregistrer votre progression sur tous les appareils",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "name": "Nom",
+    "dontHaveAccount": "Vous n'avez pas de compte? S'inscrire",
+    "haveAccount": "Vous avez déjà un compte? Se connecter",
+    "progressSynced": "Progression synchronisée",
+    "yourDataSaved": "Vos données sont enregistrées sur votre compte"
+  },
+  "timer": {
+    "title": "Minuteur d'étude",
+    "min25": "25 min",
+    "min45": "45 min",
+    "min60": "60 min",
+    "currentTask": "Tâche actuelle",
+    "selectChapter": "Sélectionner le chapitre",
+    "activityType": "Type d'activité",
+    "ncertReading": "📖 Lecture NCERT (Première fois seulement)",
+    "oswalPractice": "📝 Pratique Oswal",
+    "pyqSolving": "📜 Résolution PYQ",
+    "notesRevision": "🔄 Révision des notes",
+    "samplePaper": "📋 Exemple de papier"
+  },
+  "session": {
+    "title": "Enregistrer les questions pratiquées",
+    "questionsAttempted": "Questions tentées",
+    "correctAnswers": "Réponses correctes",
+    "difficultyFaced": "Difficulté rencontrée",
+    "easy": "😊 Facile",
+    "medium": "😐 Moyen",
+    "hard": "😓 Difficile"
+  },
+  "progress": {
+    "title": "Progrès du programme",
+    "chapters": "Chapitres",
+    "todayStats": "Statistiques d'aujourd'hui",
+    "studyTime": "Temps d'étude",
+    "questionsDone": "Questions répondues",
+    "accuracy": "Précision",
+    "currentStreak": "Séquence actuelle",
+    "days": "jours"
+  },
+  "papers": {
+    "title": "Suivi des articles du conseil",
+    "trackProgress": "Suivez votre pratique de l'article scientifique du conseil CBSE",
+    "papersCompleted": "Articles complétés",
+    "completed": "Terminé",
+    "notDone": "Non fait"
+  },
+  "chapters": {
+    "status": "Statut du chapitre",
+    "notStarted": "Non commencé",
+    "learning": "Apprentissage (phase NCERT)",
+    "practicing": "Pratique (phase Oswal)",
+    "mastered": "Maîtrisé",
+    "ncertDone": "NCERT fait",
+    "oswalDone": "Oswal fait",
+    "pyqsDone": "PYQs fait",
+    "topics": "Sujets"
+  },
+  "messages": {
+    "setExamDate": "⚠️ Définissez d'abord votre date d'examen!",
+    "clickSettings": "Cliquez sur l'icône des paramètres dans l'en-tête.",
+    "settingsSaved": "Paramètres enregistrés!",
+    "sessionLogged": "Session enregistrée avec succès! 🎉",
+    "selectChapter": "Veuillez sélectionner un chapitre",
+    "timesUp": "⏰ C'est l'heure! Enregistrez votre session."
+  }
+}
